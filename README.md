@@ -22,7 +22,7 @@ environmental interactions and survival mechanics.
 ### 🐔 Unannounced Commercial Roblox Game
 
 An original multiplayer Roblox game independently designed and developed
-by me. I am responsible for gameplay programming, game design and the
+by me and my friend. I am responsible for gameplay programming, game design and the
 overall direction of the project.
 
 Currently in private development.
