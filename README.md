@@ -3,6 +3,13 @@
 Unity Developer focused on C#, VR/XR development, gameplay systems,
 debugging and development tools.
 
+## Commercial Work
+
+### Meta Horizon Worlds — Interactive Developer at Koffeecup
+
+- [House Cleaning Simulator](https://www.koffeecup.net/house-cleaning-simulator)
+- [Wild West Saloon](https://www.koffeecup.net/wild-west-saloon)
+
 ## Selected projects
 
 ### 🚗 VR Drifting Prototype
