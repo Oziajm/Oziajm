@@ -7,8 +7,10 @@ debugging and development tools.
 
 ### Meta Horizon Worlds — Interactive Developer at Koffeecup
 
-- [House Cleaning Simulator](https://www.koffeecup.net/house-cleaning-simulator)
-- [Wild West Saloon](https://www.koffeecup.net/wild-west-saloon)
+- [Star City](https://horizon.meta.com/world/1210055420890187/?locale=pl_PL)
+- [House Cleaning Simulator / Chaos Bots](https://horizon.meta.com/world/904616358100763/?locale=pl_PL) — [Project page & developer credits](https://www.koffeecup.net/house-cleaning-simulator)
+- [Wild West Saloon](https://horizon.meta.com/world/824204512808615/?locale=pl_PL) — [Project page & developer credits](https://www.koffeecup.net/wild-west-saloon)
+- [Terrarium](https://horizon.meta.com/world/25059481620394756/?locale=pl_PL)
 
 ## Selected projects
 
