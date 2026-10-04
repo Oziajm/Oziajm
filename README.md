@@ -28,13 +28,13 @@ environmental interactions and survival mechanics.
 
 ▶️ [Watch gameplay](https://www.youtube.com/watch?v=4KkIqa3QxSk)
 
-### 🐔 Unannounced Commercial Roblox Game
+### 🐔 Last Chicken Standing
 
 An original multiplayer Roblox game independently designed and developed
 by me and my friend. I am responsible for gameplay programming, game design and the
 overall direction of the project.
 
-Currently in private development.
+[Game Link](https://www.roblox.com/pl/games/72927446595236/Last-Chicken-Standing#!/about)
 
 ## Technologies
 
